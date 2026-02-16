@@ -1,4 +1,4 @@
-# 🚀 TalentInsight – AI Resume Analytics Dashboard  
+# 🚀 TalentInsight – AI Resume Analytics Dashboard
 
 An AI-powered recruitment analytics system that automates resume screening, candidate scoring, and domain classification using Natural Language Processing and interactive data visualization.
 
